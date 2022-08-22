@@ -1,10 +1,9 @@
-
 # Hello there!!! It is really nice to see you!!!!! :sunglasses:
 - :wave: I'm Ebru
 - :eyes: I'm interested in Web Development
 - :seedling: I've been learning HTML, CSS, Bootstrap, JavaScript, SQL,REACT
 - :speech_balloon: Ask me anything about Tech World.
-- :mailbox: You can reach me in here [LinkedIn](https://www.linkedin.com/feed/)
+- :mailbox: You can reach me in here [LinkedIn]https://www.linkedin.com/feed/
 ## Languages & Tools  :hammer_and_wrench:
 <p align="left">
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50"/></a>
@@ -19,3 +18,4 @@
   </a>
 </p>
 <img src="https://github-readme-stats.vercel.app/api?username=Ebru&theme=codeSTACKr&show_icons=true" >
+Aug 12th at 2:38 PM
