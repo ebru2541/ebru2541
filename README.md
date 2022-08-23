@@ -4,11 +4,7 @@
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ebru-acar-a4936623a/) 
    
- <p align="center">
 
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="800" height="400">
-  
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <br>
@@ -52,8 +48,8 @@
 
 
 <div align="center">
-  <a href="https://github.com/ebru2541/snake/blob/main/snake.svg">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+<!--   <a href="https://github.com/ebru2541/snake/blob/main/snake.svg"> -->
+  <img  src="https://github.com/ebru2541/snake/blob/main/snake.svg"
        alt="snake" /></a>
 </div>
 
