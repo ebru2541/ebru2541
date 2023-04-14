@@ -97,26 +97,8 @@
  <a href="#" target="_blank"> <img src="https://img.shields.io/badge/jira-1e90ff.svg?&style=for-the-badge&logo=jira&logoColor=white" height="30"/> </a>
 </p>
 
-</p> 
-
-
-
-
-</div>
 <br>
-
-
-
 <br>
-<div align="center">
-  <a href="#">
-    <img src="https://activity-graph.herokuapp.com/graph?username=Ebru2541&theme=react-dark" />
-  </a>
-</div>
-
-
-
-
 
 
 ## My projects
