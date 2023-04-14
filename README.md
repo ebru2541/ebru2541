@@ -108,6 +108,16 @@
 
 </div>
 <br>
+
+
+
+<br>
+<div align="center">
+  <a href="#">
+    <img src="https://activity-graph.herokuapp.com/graph?username=Ebru2541&theme=react-dark" />
+  </a>
+</div>
+
 ## My projects
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
@@ -140,12 +150,11 @@
 [Portfolio SASS ](https://bengin34.github.io/Portfolio-Page-Sass-Project/index.html)|  HTML5, SASS|![sass](https://user-images.githubusercontent.com/118957608/221443026-51e47633-23a6-4c56-8dd7-cb9590b2a217.gif)
 
 
-<br>
-<div align="center">
-  <a href="#">
-    <img src="https://activity-graph.herokuapp.com/graph?username=Ebru2541&theme=react-dark" />
-  </a>
+
+
+
 </div>
+
 
 
 <!-- <div align="center">
