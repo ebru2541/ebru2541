@@ -105,7 +105,7 @@
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
 [Blog App](https://blog-mui-redux.vercel.app/)| React, React Redux, Material UI, Formik, Yup, Persist, Django |![blog](https://github.com/ebru2541/blogApp/blob/master/src/blog-mui-redux.gif)
-[Stock App](https://18-voice-todo-app.vercel.app/)| React, React Router,Tailwind, Firebase, Firestore Database, ALAN AI|![todo](https://user-images.githubusercontent.com/118957608/225590044-49126325-efd0-475d-b70d-5fd7da4e71dc.gif)
+<!-- [Stock App](https://18-voice-todo-app.vercel.app/)| React, React Router,Tailwind, Firebase, Firestore Database, ALAN AI|![todo](https://user-images.githubusercontent.com/118957608/225590044-49126325-efd0-475d-b70d-5fd7da4e71dc.gif)
 [Netflix](https://netflix-basic-three.vercel.app/)| React, React Router,Tailwind, Firebase, Firestore Database|![netf](https://user-images.githubusercontent.com/118957608/226092423-9d9cd68f-75e2-42b1-8597-0807c882522a.gif)
 [Movie App](https://movie-app-nu-flame.vercel.app/)| React, React Router,Tailwind, Firebase, Rest API|![mov](https://user-images.githubusercontent.com/118957608/224515068-5be5fd5f-f1a9-4e2d-bcf1-4714758a5535.gif)
 [Library App💅](https://library-app-six.vercel.app/)| React, React Router,Styled Component💅,Rest API|![lib](https://user-images.githubusercontent.com/118957608/224615705-705a1805-0816-41ad-bc58-80c51bcadbcc.gif)
@@ -129,7 +129,7 @@
 [Checkout Page JS](https://bengin34.github.io/CheckoutPage/)|  Vanilla JavaScript, HTML5, CSS3, DOM Manipulation|![checkout](https://user-images.githubusercontent.com/118957608/213875489-18766d2e-e63f-4434-bdf7-9f5e578edd98.png)
 [Catch Me Game](https://bengin34.github.io/catchMe_GameJS-/)| Vanilla JavaScript, HTML5, CSS3, DOM Manipulation, Local Storage |![Ekran Resmi 2023-01-18 17 44 11](https://user-images.githubusercontent.com/118957608/213201338-13329cf5-d9f1-4463-9da8-9942b08f8998.png)
 [Retro Bracket Game](https://bengin34.github.io/RetroBracketGameJS/)| Vanilla JavaScript, HTML5, CSS3|![brackets](https://user-images.githubusercontent.com/118957608/214542918-39aaafc1-7ad6-45be-8bb8-2738a58e408d.gif)
-[Portfolio SASS ](https://bengin34.github.io/Portfolio-Page-Sass-Project/index.html)|  HTML5, SASS|![sass](https://user-images.githubusercontent.com/118957608/221443026-51e47633-23a6-4c56-8dd7-cb9590b2a217.gif)
+[Portfolio SASS ](https://bengin34.github.io/Portfolio-Page-Sass-Project/index.html)|  HTML5, SASS|![sass](https://user-images.githubusercontent.com/118957608/221443026-51e47633-23a6-4c56-8dd7-cb9590b2a217.gif) -- >
 
 </div>
 <br>
