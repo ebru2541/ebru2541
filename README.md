@@ -105,8 +105,9 @@
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
 [Blog App](https://blog-mui-redux.vercel.app/)| React, React Redux, Material UI, Formik, Yup, Persist, Django |![blog](https://github.com/ebru2541/blogApp/blob/master/src/blog-mui-redux.gif)
-[Nba Legends](https://nba-legend.netlify.app/)| React, HTML, Javascript, CSS3 |![nba](https://github.com/ebru2541/nba-legend/blob/master/src/nba.gif)
-
+[Tour Project](https://tour-project-react-r.netlify.app/)| React, React-Bootstrap |![tours](https://github.com/ebru2541/tour-project/blob/master/src/tour-project.gif)
+[NBA Legends](https://nba-legend.netlify.app/)| React, HTML, Javascript, CSS3 |![nba](https://github.com/ebru2541/nba-legend/blob/master/src/nba.gif)
+[Gallery ](https://image-gallery-react-r.netlify.app/)|  HTML5, CSS3|![sass](https://github.com/ebru2541/image-gallery/blob/master/src/image-gallery.gif)
 
 
 
