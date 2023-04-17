@@ -106,6 +106,7 @@
 :-------------------------|-------------------------|-------------------------
 [Blog App](https://blog-mui-redux.vercel.app/)| React, React Redux, Material UI, Formik, Yup, Persist, Django |![blog](https://github.com/ebru2541/blogApp/blob/master/src/blog-mui-redux.gif)
 [Tour Project](https://tour-project-react-r.netlify.app/)| React, React-Bootstrap |![tours](https://github.com/ebru2541/tour-project/blob/master/src/tour-project.gif)
+[Task Tracker ](https://task-tracker-r.netlify.app/)| React,Tailwind CSS, Local Storage,useState useEffect Hooks|![task tracker](https://github.com/ebru2541/task-tracker/blob/master/task-tracker.gif)
 [NBA Legends](https://nba-legend.netlify.app/)| React, HTML, Javascript, CSS3 |![nba](https://github.com/ebru2541/nba-legend/blob/master/src/nba.gif)
 [Gallery ](https://image-gallery-react-r.netlify.app/)|  HTML5, CSS3|![sass](https://github.com/ebru2541/image-gallery/blob/master/src/image-gallery.gif)
 
