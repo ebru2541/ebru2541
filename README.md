@@ -109,6 +109,7 @@
 [Task Tracker ](https://task-tracker-r.netlify.app/)| React,Tailwind CSS, Local Storage,useState useEffect Hooks|![task tracker](https://github.com/ebru2541/task-tracker/blob/master/task-tracker.gif)
 [NBA Legends](https://nba-legend.netlify.app/)| React, HTML, Javascript, CSS3 |![nba](https://github.com/ebru2541/nba-legend/blob/master/src/nba.gif)
 [Gallery ](https://image-gallery-react-r.netlify.app/)|  HTML5, CSS3|![sass](https://github.com/ebru2541/image-gallery/blob/master/src/image-gallery.gif)
+[Languange Card ](https://language-card-react-r.netlify.app/)|  HTML5, CSS3, React Router|![Languange](https://github.com/ebru2541/language-card-react/blob/master/src/languange-card.gif)
 
 
 
