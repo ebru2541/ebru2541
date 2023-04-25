@@ -105,6 +105,7 @@
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
 [Blog App](https://blog-mui-redux.vercel.app/)| React, React Redux, Material UI, Formik, Yup, Persist, Django |![blog](https://github.com/ebru2541/blogApp/blob/master/src/blog-mui-redux.gif)
+[Todo App with React](https://todos-typescript-9sl5uryyr-ebru2541.vercel.app/)| React, CSS, Local Storage, React Hooks|![todo](https://github.com/ebru2541/todos-typescript/blob/master/src/todo-typescript.gif)
 [Tour Project](https://tour-project-react-r.netlify.app/)| React, React-Bootstrap |![tours](https://github.com/ebru2541/tour-project/blob/master/src/tour-project.gif)
 [Hospital](https://hospital-page-one.vercel.app/)| Vanilla JavaScript, HTML5, CSS3, DOM Manipulation, Local Storage |![hospital](https://github.com/ebru2541/hospital-page/blob/master/src/hospital.gif)
 [Task Tracker ](https://task-tracker-r.netlify.app/)| React,Tailwind CSS, Local Storage,useState useEffect Hooks|![task tracker](https://github.com/ebru2541/task-tracker/blob/master/task-tracker.gif)
