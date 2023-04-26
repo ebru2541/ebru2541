@@ -105,6 +105,7 @@
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
 [Blog App](https://blog-mui-redux.vercel.app/)| React, React Redux, Material UI, Formik, Yup, Persist, Django |![blog](https://github.com/ebru2541/blogApp/blob/master/src/blog-mui-redux.gif)
+[Movie App](https://movie-firebase.netlify.app/)| React, React Router,Tailwind, Firebase, Rest API|![mov](https://github.com/ebru2541/movie-app/blob/master/src/movie-firebase.gif)
 [Todo App with React](https://todos-typescript-9sl5uryyr-ebru2541.vercel.app/)| React, CSS, Local Storage, React Hooks, Typescript|![todo](https://github.com/ebru2541/todos-typescript/blob/master/src/todo-typescript.gif)
 [Tour Project](https://tour-project-react-r.netlify.app/)| React, React-Bootstrap |![tours](https://github.com/ebru2541/tour-project/blob/master/src/tour-project.gif)
 [Hospital](https://hospital-page-one.vercel.app/)| Vanilla JavaScript, HTML5, CSS3, DOM Manipulation, Local Storage, useState useEffect Hooks |![hospital](https://github.com/ebru2541/hospital-page/blob/master/src/hospital.gif)
@@ -164,6 +165,22 @@
   <img  src="https://github.com/ebru2541/snake/blob/main/snake.svg"
        alt="snake" /></a>
 </div>
+
+<h2 align="center">💡 📈 Statistics</h2>
+<div  align="center">
+<br/>
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=yusufburakkaradag42&theme=chartreuse-dark&show_icons=true" alt="my github stats" width="49%"/>&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yusufburakkaradag42&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufburakkaradag42&theme=chartreuse-dark&layout=compact" alt="languages" width="49%" > </p>
+
+<br/>
+<img src="https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg"></br>
+
+<p align="center">
+<img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76114acbabb2a6dff2fdf3d3b138e89c8f25cb1fa941&rid=giphy.gif&ct=g"  width="350" height="200"></p>
+</div>
+
 
 
 <h3 align="left">📫 &nbsp;Feel Free to Contact me.....</h3>
