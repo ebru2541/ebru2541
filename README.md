@@ -170,9 +170,9 @@
 <div  align="center">
 <br/>
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=yusufburakkaradag42&theme=chartreuse-dark&show_icons=true" alt="my github stats" width="49%"/>&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yusufburakkaradag42&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufburakkaradag42&theme=chartreuse-dark&layout=compact" alt="languages" width="49%" > </p>
+<img src="https://github-readme-stats.vercel.app/api?username=ebru2541&theme=chartreuse-dark&show_icons=true" alt="my github stats" width="49%"/>&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ebru2541&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebru2541&theme=chartreuse-dark&layout=compact" alt="languages" width="49%" > </p>
 
 <br/>
 
