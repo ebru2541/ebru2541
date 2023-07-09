@@ -104,6 +104,7 @@
 ## My projects
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
+
 [Stock App](https://stock-app-psi.vercel.app/)| React, React Router, React Redux, Tailwind, Material UI, Formik, Yup, Persist, Django |![stock](https://github.com/ebru2541/stockAPP/blob/master/stock.gif)
 [Blog App](https://blog-mui-redux.vercel.app/)| React, React Redux, Material UI, Formik, Yup, Persist, Django |![blog](https://github.com/ebru2541/blogApp/blob/master/src/blog-mui-redux.gif)
 [Movie App](https://movie-firebase.netlify.app/)| React, React Router,Tailwind, Firebase, Rest API|![mov](https://github.com/ebru2541/movie-app/blob/master/src/movie-firebase.gif)
