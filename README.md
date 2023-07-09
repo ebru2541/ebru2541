@@ -102,11 +102,12 @@
 
 
 ## My projects
+
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
 
 
-[Blog App](https://blog-mui-redux.vercel.app/)| React, React Redux, Material UI, Formik, Yup, Persist, Django |![blog](https://github.com/ebru2541/blogApp/blob/master/src/blog-mui-redux.gif)
+<!--[Blog App](https://blog-mui-redux.vercel.app/)| React, React Redux, Material UI, Formik, Yup, Persist, Django |![blog](https://github.com/ebru2541/blogApp/blob/master/src/blog-mui-redux.gif)
 [Movie App](https://movie-firebase.netlify.app/)| React, React Router,Tailwind, Firebase, Rest API|![mov](https://github.com/ebru2541/movie-app/blob/master/src/movie-firebase.gif)
 [Checkout Page with React](https://checkout-page-eylt.vercel.app/)| React, Bootstrap, Mock API, Async, Await, Axios|![checkoutPage](https://github.com/ebru2541/checkout-page/blob/master/checkout-axios.gif)
 [Task Tracker ](https://task-tracker-r.netlify.app/)| React,Tailwind CSS, Local Storage,useState useEffect Hooks|![task tracker](https://github.com/ebru2541/task-tracker/blob/master/task-tracker.gif)
@@ -115,12 +116,12 @@
 [Tour Project](https://tour-project-react-r.netlify.app/)| React, React-Bootstrap |![tours](https://github.com/ebru2541/tour-project/blob/master/src/tour-project.gif)
 [NBA Legends](https://nba-legend.netlify.app/)| React, HTML, Javascript, CSS3 |![nba](https://github.com/ebru2541/nba-legend/blob/master/src/nba.gif)
 [Gallery ](https://image-gallery-react-r.netlify.app/)|  HTML5, CSS3|![sass](https://github.com/ebru2541/image-gallery/blob/master/src/image-gallery.gif)
-[Languange Card ](https://language-card-react-r.netlify.app/)|  HTML5, CSS3, React Router|![Languange](https://github.com/ebru2541/language-card-react/blob/master/src/languange-card.gif)
+[Languange Card ](https://language-card-react-r.netlify.app/)|  HTML5, CSS3, React Router|![Languange](https://github.com/ebru2541/language-card-react/blob/master/src/languange-card.gif)-- >
 
 
 
 
-<!-- [Stock App](https://18-voice-todo-app.vercel.app/)| React, React Router,Tailwind, Firebase, Firestore Database, ALAN AI|![todo](https://user-images.githubusercontent.com/118957608/225590044-49126325-efd0-475d-b70d-5fd7da4e71dc.gif)
+ [Stock App](https://18-voice-todo-app.vercel.app/)| React, React Router,Tailwind, Firebase, Firestore Database, ALAN AI|![todo](https://user-images.githubusercontent.com/118957608/225590044-49126325-efd0-475d-b70d-5fd7da4e71dc.gif)
 [Netflix](https://netflix-basic-three.vercel.app/)| React, React Router,Tailwind, Firebase, Firestore Database|![netf](https://user-images.githubusercontent.com/118957608/226092423-9d9cd68f-75e2-42b1-8597-0807c882522a.gif)
 [Movie App](https://movie-app-nu-flame.vercel.app/)| React, React Router,Tailwind, Firebase, Rest API|![mov](https://user-images.githubusercontent.com/118957608/224515068-5be5fd5f-f1a9-4e2d-bcf1-4714758a5535.gif)
 [Library App💅](https://library-app-six.vercel.app/)| React, React Router,Styled Component💅,Rest API|![lib](https://user-images.githubusercontent.com/118957608/224615705-705a1805-0816-41ad-bc58-80c51bcadbcc.gif)
@@ -144,7 +145,7 @@
 [Checkout Page JS](https://bengin34.github.io/CheckoutPage/)|  Vanilla JavaScript, HTML5, CSS3, DOM Manipulation|![checkout](https://user-images.githubusercontent.com/118957608/213875489-18766d2e-e63f-4434-bdf7-9f5e578edd98.png)
 [Catch Me Game](https://bengin34.github.io/catchMe_GameJS-/)| Vanilla JavaScript, HTML5, CSS3, DOM Manipulation, Local Storage |![Ekran Resmi 2023-01-18 17 44 11](https://user-images.githubusercontent.com/118957608/213201338-13329cf5-d9f1-4463-9da8-9942b08f8998.png)
 [Retro Bracket Game](https://bengin34.github.io/RetroBracketGameJS/)| Vanilla JavaScript, HTML5, CSS3|![brackets](https://user-images.githubusercontent.com/118957608/214542918-39aaafc1-7ad6-45be-8bb8-2738a58e408d.gif)
-[Portfolio SASS ](https://bengin34.github.io/Portfolio-Page-Sass-Project/index.html)|  HTML5, SASS|![sass](https://user-images.githubusercontent.com/118957608/221443026-51e47633-23a6-4c56-8dd7-cb9590b2a217.gif) -- >
+[Portfolio SASS ](https://bengin34.github.io/Portfolio-Page-Sass-Project/index.html)|  HTML5, SASS|![sass](https://user-images.githubusercontent.com/118957608/221443026-51e47633-23a6-4c56-8dd7-cb9590b2a217.gif) 
 
 </div>
 <br>
