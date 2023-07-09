@@ -106,6 +106,7 @@
 :-------------------------|-------------------------|-------------------------
 [Blog App](https://blog-mui-redux.vercel.app/)| React, React Redux, Material UI, Formik, Yup, Persist, Django |![blog](https://github.com/ebru2541/blogApp/blob/master/src/blog-mui-redux.gif)
 [Movie App](https://movie-firebase.netlify.app/)| React, React Router,Tailwind, Firebase, Rest API|![mov](https://github.com/ebru2541/movie-app/blob/master/src/movie-firebase.gif)
+[Checkout Page with React](https://checkout-page-eylt.vercel.app/)| React, Bootstrap, Mock API, Async, Await, Axios|![checkoutPage](https://github.com/ebru2541/checkout-page/blob/master/checkout-axios.gif)
 [Todo App with React](https://todos-typescript-9sl5uryyr-ebru2541.vercel.app/)| React, CSS, Local Storage, React Hooks, Typescript|![todo](https://github.com/ebru2541/todos-typescript/blob/master/src/todo-typescript.gif)
 [Tour Project](https://tour-project-react-r.netlify.app/)| React, React-Bootstrap |![tours](https://github.com/ebru2541/tour-project/blob/master/src/tour-project.gif)
 [Hospital](https://hospital-page-one.vercel.app/)| Vanilla JavaScript, HTML5, CSS3, DOM Manipulation, Local Storage, useState useEffect Hooks |![hospital](https://github.com/ebru2541/hospital-page/blob/master/src/hospital.gif)
