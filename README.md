@@ -106,7 +106,21 @@
 
 Project Demo    |My Repo          |Libraries and Technologies I use      |Project Preview   
 :---------------|----------------------|--------------------|------------------
-[Blog App]([https://stock-app-psi.vercel.app/] | <h3>[Repo](https://github.com/ebru2541/blogApp)</h3> | React, React Redux, Material UI, Formik, Yup, Persist, Django|![blog](https://github.com/ebru2541/blogApp/blob/master/src/blog-mui-redux.gif)
+[Stock APP](https://stock-app-psi.vercel.app/)|<h3>[Repo](https://github.com/ebru2541/stockAPP)</h3>|  HTML5, CSS3, React Router|![Lstocl](https://github.com/ebru2541/stockAPP/blob/master/stock.gif).
+[Blog App](https://stock-app-psi.vercel.app/)|<h3>[Repo](https://github.com/ebru2541/blogApp)</h3> | React, React Redux, Material UI, Formik, Yup, Persist, Django|![blog](https://github.com/ebru2541/blogApp/blob/master/src/blog-mui-redux.gif)
+[Movie App](https://movie-firebase.netlify.app/)|  <h3>[Repo](https://github.com/ebru2541/movie-app-firebase)</h3> | React, React Router,Tailwind, Firebase, Rest API|![mov](https://github.com/ebru2541/movie-app/blob/master/src/movie-firebase.gif)
+[Checkout Page with React](https://checkout-page-eylt.vercel.app/)|  <h3>[Repo](https://github.com/ebru2541/movie-app-firebase/tree/master)</h3> |React, Bootstrap, Mock API, Async, Await, Axios|![checkoutPage](https://github.com/ebru2541/checkout-page/blob/master/checkout-axios.gif).
+[Task Tracker ](https://task-tracker-r.netlify.app/)| <h3>[Repo](https://github.com/ebru2541/task-tracker)</h3>| React,Tailwind CSS, Local Storage,useState useEffect Hooks|![task tracker](https://github.com/ebru2541/task-tracker/blob/master/task-tracker.gif).
+[Todo App with React](https://todos-typescript-9sl5uryyr-ebru2541.vercel.app/)| <h3>[Repo](https://github.com/ebru2541/todos-typescript)</h3>| React, CSS, Local Storage, React Hooks, Typescript|![todo](https://github.com/ebru2541/todos-typescript/blob/master/src/todo-typescript.gif)
+[Hospital](https://hospital-page-one.vercel.app/)|<h3>[Repo](https://github.com/ebru2541/hospital-page)</h3>| Vanilla JavaScript, HTML5, CSS3, DOM Manipulation, Local Storage, useState useEffect Hooks |![hospital](https://github.com/ebru2541/hospital-page/blob/master/src/hospital.gif)
+[Tour Project](https://tour-project-react-r.netlify.app/)|<h3>[Repo](https://github.com/ebru2541/tour-project)</h3>|  React, React-Bootstrap |![tours](https://github.com/ebru2541/tour-project/blob/master/src/tour-project.gif)
+[NBA Legends](https://nba-legend.netlify.app/)|<h3>[Repo](https://github.com/ebru2541/nba-legend)</h3>|  React, HTML, Javascript, CSS3 |![nba](https://github.com/ebru2541/nba-legend/blob/master/src/nba.gif)
+[Languange Card ](https://language-card-react-r.netlify.app/)|<h3>[Repo](https://github.com/ebru2541/language-card-react)</h3>|  HTML5, CSS3, React Router|![Languange](https://github.com/ebru2541/language-card-react/blob/master/src/languange-card.gif)
+[Gallery ](https://image-gallery-react-r.netlify.app/)|<h3>[Repo](https://github.com/ebru2541/image-gallery)</h3>|  HTML5, CSS3|![sass](https://github.com/ebru2541/image-gallery/blob/master/src/image-gallery.gif)
+
+
+
+
 
 <!--[Blog App](https://blog-mui-redux.vercel.app/)| React, React Redux, Material UI, Formik, Yup, Persist, Django |![blog](https://github.com/ebru2541/blogApp/blob/master/src/blog-mui-redux.gif)
 [Movie App](https://movie-firebase.netlify.app/)| React, React Router,Tailwind, Firebase, Rest API|![mov](https://github.com/ebru2541/movie-app/blob/master/src/movie-firebase.gif)
