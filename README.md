@@ -106,7 +106,7 @@
 
 Project Demo    |My Repo          |Libraries and Technologies I use      |Project Preview   
 :---------------|----------------------|--------------------|------------------
-[Crypto App](https://reactcrypto-app.netlify.app/) | <h3>[Repo](https://github.com/yusufburakkaradag42/react-crypto-app)</h3> | Reactjs, Axios ,API ,Css|![mobile gif](https://github.com/yusufburakkaradag42/yusufburakkaradag42/assets/118989504/e762ab6f-a387-47cf-87db-b17163becec1)
+[Blog App]([https://stock-app-psi.vercel.app/] | <h3>[Repo](https://github.com/ebru2541/blogApp)</h3> | React, React Redux, Material UI, Formik, Yup, Persist, Django|![blog](https://github.com/ebru2541/blogApp/blob/master/src/blog-mui-redux.gif)
 
 <!--[Blog App](https://blog-mui-redux.vercel.app/)| React, React Redux, Material UI, Formik, Yup, Persist, Django |![blog](https://github.com/ebru2541/blogApp/blob/master/src/blog-mui-redux.gif)
 [Movie App](https://movie-firebase.netlify.app/)| React, React Router,Tailwind, Firebase, Rest API|![mov](https://github.com/ebru2541/movie-app/blob/master/src/movie-firebase.gif)
