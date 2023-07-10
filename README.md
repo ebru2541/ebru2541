@@ -106,9 +106,9 @@
 
 Project Demo    |My Repo          |Libraries and Technologies I use      |Project Preview   
 :---------------|----------------------|--------------------|------------------
-[Stock APP](https://stock-app-psi.vercel.app/)|<h3>[Repo](https://github.com/ebru2541/stockAPP)</h3>|  HTML5, CSS3, React Router|![Lstocl](https://github.com/ebru2541/stockAPP/blob/master/stock.gif).
+[Stock APP](https://stock-app-psi.vercel.app/)|<h3>[Repo](https://github.com/ebru2541/stockAPP)</h3>|  PostgreSQL, Material-ui Library, React-router Library, Formik and Yup Libraries, React-toastify Library, Redux toolkit library, Axios library and Django|![Lstocl](https://github.com/ebru2541/stockAPP/blob/master/stock.gif).
 [Blog App](https://stock-app-psi.vercel.app/)|<h3>[Repo](https://github.com/ebru2541/blogApp)</h3> | React, React Redux, Material UI, Formik, Yup, Persist, Django|![blog](https://github.com/ebru2541/blogApp/blob/master/src/blog-mui-redux.gif)
-[Movie App](https://movie-firebase.netlify.app/)|  <h3>[Repo](https://github.com/ebru2541/movie-app-firebase)</h3> | React, React Router,Tailwind, Firebase, Rest API|![mov](https://github.com/ebru2541/movie-app/blob/master/src/movie-firebase.gif)
+[Movie App](https://movie-firebase.netlify.app/)|  <h3>[Repo](https://github.com/ebru2541/movie-app-firebase)</h3> | React, React Router,Tailwind, Context, Firebase, Rest API|![mov](https://github.com/ebru2541/movie-app/blob/master/src/movie-firebase.gif)
 [Checkout Page with React](https://checkout-page-eylt.vercel.app/)|  <h3>[Repo](https://github.com/ebru2541/movie-app-firebase/tree/master)</h3> |React, Bootstrap, Mock API, Async, Await, Axios|![checkoutPage](https://github.com/ebru2541/checkout-page/blob/master/checkout-axios.gif).
 [Task Tracker ](https://task-tracker-r.netlify.app/)| <h3>[Repo](https://github.com/ebru2541/task-tracker)</h3>| React,Tailwind CSS, Local Storage,useState useEffect Hooks|![task tracker](https://github.com/ebru2541/task-tracker/blob/master/task-tracker.gif).
 [Todo App with React](https://todos-typescript-9sl5uryyr-ebru2541.vercel.app/)| <h3>[Repo](https://github.com/ebru2541/todos-typescript)</h3>| React, CSS, Local Storage, React Hooks, Typescript|![todo](https://github.com/ebru2541/todos-typescript/blob/master/src/todo-typescript.gif)
